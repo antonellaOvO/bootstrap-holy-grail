@@ -7,4 +7,4 @@ La zona central puede tener 2 o más columnas. Es posible añadir filas y column
 
 Puedes añadir tu propio CSS también, y efectos CSS vistos como hover y animaciones.
 
-Temática libre. Investiga, que tú puedes
+Temática libre. Investiga, que tú puedes ------
