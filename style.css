@@ -1,1 +1,39 @@
+.header-1 {
+  background-image: url(images/succulents-img.jpg);
+  background-size: cover;
+  background-position-y: center;
+  max-width: 100%;
+  height: 400px;
+}
 
+.navbar-brand {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+}
+
+nav {
+  font-family: "Rakkas", serif;
+  font-weight: 400;
+  letter-spacing: 4px;
+}
+
+.border-aside {
+  border-right: 2px solid black;
+}
+
+.border-aside-reversed {
+  border-left: 2px solid black;
+}
+
+.aside-content {
+  font-family: "Exo 2", sans-serif;
+  color: white;
+}
+
+.aside-content a {
+  color: white;
+}
+
+h1 {
+  font-family: "Exo 2", sans-serif;
+}
